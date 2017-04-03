@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1463488184 source:c:\users\Юыху\desktop\projects\tower\main.cpp
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+	<iostream>
+
